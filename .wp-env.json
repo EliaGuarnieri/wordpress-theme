@@ -1,0 +1,12 @@
+{
+  "themes": [
+    "./src"
+  ],
+  "env": {
+    "development": {
+      "config": {
+        "WP_ENVIRONMENT_TYPE": "development"
+      }
+    }
+  }
+}
